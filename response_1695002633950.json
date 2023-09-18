@@ -1,0 +1,34 @@
+{
+  "id": 2807,
+  "name": "EDMILSON003",
+  "account": {
+    "id": 2968,
+    "number": "1000-003",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 2726,
+    "number": "1234 1234 1234 0003",
+    "limit": 2000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 5767,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Olá EDMILSON003! Garanta seu futuro. Faça hoje seus investimentos e alavanque sua prosperidade!"
+    },
+    {
+      "id": 5770,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Olá Edmilson003! Seu futuro financeiro merece investimentos inteligentes hoje. Invista para prosperar!"
+    },
+    {
+      "id": 5773,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Olá, EDMILSON003! Investir é a chave para crescer seu patrimônio e garantir seu futuro financeiro."
+    }
+  ]
+}
